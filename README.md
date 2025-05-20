@@ -5,7 +5,8 @@
 - 📫 You can reach me via email: david.t@ipgm.edu.my
 - 😄 Pronouns: he/his/him
 
-
+- These scripts concern a qualitative study on the Standard Guru Malaysia 2.0 using the prescribed tool, Senarai Semak Kompetensi Kendiri (SSDK).
+- 
 <!---
 dtchaikovskytbe/dtchaikovskytbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
